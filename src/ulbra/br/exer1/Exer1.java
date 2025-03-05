@@ -30,6 +30,9 @@ public class Exer1 {
     public int ContarPalavra(){
         return palavra.length();
     }
+    public void Testar(){
+        System.out.println("Teste");
+    }
     
    
 }
